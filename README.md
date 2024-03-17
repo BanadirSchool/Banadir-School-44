@@ -46,10 +46,4 @@
                         <td> COMPUTER
                         </td>
                
-                    <tr>
-                        <td> SECURITY</td>
-                        <td>Lama Hayo </td>
-                        <td> Z
-                        <td> COMPUTER
-                        </td>
-                   
+                  
