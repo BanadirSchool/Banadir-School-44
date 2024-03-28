@@ -41,8 +41,8 @@
                
                 <tr>
                         <td>M-S POWER POINT </td>
-                        <td>Lama Hayo </td>
-                        <td> Z
+                        <td>100 </td>
+                        <td> A+
                         <td> COMPUTER
                         </td>
                
